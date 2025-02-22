@@ -2,6 +2,7 @@
 
 ## Contact
 If you want any project, contact me via email.
+anyproject@rediffmail.com
 
 ## Pricing
 Get your project along with reports and presentations at the following prices:
