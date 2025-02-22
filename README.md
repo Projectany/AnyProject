@@ -51,6 +51,14 @@ Get your project along with reports and presentations at the following prices:
 
 (More projects available upon request)
 
+## Suitable For:
+These projects are suitable for:
+- **BCA (Bachelor of Computer Applications)**
+- **B.Tech (Bachelor of Technology)**
+- **Diploma in Computer Science & IT**
+- **MCA (Master of Computer Applications)**
+- **M.Tech (Master of Technology)**
+
 ## How to Get a Project
 1. Email us with the following details:
    - **Your Name**
