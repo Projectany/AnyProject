@@ -20,6 +20,10 @@ Get your project along with reports and presentations at the following prices:
 
 (More projects available upon request)
 
+### Limited Time Discount Offer 🎉
+- **Flat ₹50 OFF** on orders above ₹500
+- **Flat ₹100 OFF** on orders above ₹1000
+
 ## How to Get a Project
 1. Email us with the following details:
    - **Your Name**
